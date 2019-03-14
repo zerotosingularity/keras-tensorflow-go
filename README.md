@@ -15,8 +15,11 @@ https://github.com/minixxie/docker-tensorflow-golang
 Interesting links:
 
 https://raw.githubusercontent.com/tensorflow/tensorflow/master/tensorflow/go/op/wrappers.go
+
 https://www.tensorflow.org/install/lang_c
+
 https://www.tensorflow.org/install/docker
+
 https://github.com/tensorflow/tensorflow/blob/master/tensorflow/go/example_inception_inference_test.go
 
 
